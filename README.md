@@ -19,7 +19,7 @@ Nexara est un outil OSINT (Open Source Intelligence) conçu pour faciliter la co
    ```
 3. Installez les requirements :
    ```bash
-   Installer les requirement nécessaire 
+   pip install -r requirements.txt 
    ```
 
 ## Utilisation
