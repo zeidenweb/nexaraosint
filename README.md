@@ -1,4 +1,4 @@
-# Nexara
+# Nexara V2
 
 Nexara est un outil OSINT (Open Source Intelligence) conçu pour faciliter la collecte et l'analyse des informations accessibles au public. Avec une interface simple & facile, Nexara vous permet de réaliser des recherches.
 
@@ -36,4 +36,4 @@ Cette outil est mise a disposition a des fin éducative je ne suis en aucun cas 
 
 ---
 
-https://i.imgur.com/cXAiYqi.jpeg
+[📷] https://i.imgur.com/cXAiYqi.jpeg | https://i.imgur.com/sofLmBq.jpeg
