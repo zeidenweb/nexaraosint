@@ -1,13 +1,15 @@
 # Nexara V2
 
-Nexara est un outil OSINT (Open Source Intelligence) conçu pour faciliter la collecte et l'analyse des informations accessibles au public. Avec une interface simple & facile, Nexara vous permet de réaliser des recherches.
+Nexara est un outil OSINT (Open Source Intelligence) conçu pour faciliter l'osint accessibles au public. Avec une interface simple & facile, Nexara répertorie les meilleurs site du moment pou fair de l'osint donc pas besoin des
+commentaires inutiles du style " c'est nul ca affiche que des site " car c'est le but ! A quoi sert de re-coder
+par exemple une "ip lookup" si il y'en z déjà des centaines !
 
 ## Fonctionnalités
 
-- **Recherche Avancée** : Effectuez des recherches approfondies grace au DB mise a disposition 
-- **Osint** : fair tout type de recherche avec n'importe qu'elle informations 
+- **Osint** : Retrouver une multitude de tool pour faire de l'osint avec de maigre informations !
+- **Database** : Fair des recherches dans des database leak 100% gratuit 
 
-## Installation
+## Installation Linux & Termux
 
 1. Clonez ce dépôt :
    ```bash
@@ -20,6 +22,21 @@ Nexara est un outil OSINT (Open Source Intelligence) conçu pour faciliter la co
 3. Installez les requirements :
    ```bash
    pip install -r requirements.txt 
+   ```
+
+## Installation Windows 
+
+1. Télécharger ce dépôt :
+   ```bash
+   Télécharger le ZIP en cliquant sur le bouton vert
+   ```
+2. Accédez au répertoire du projet :
+   ```bash
+   Ouvrire un CMD dans le dossier Nexara
+   ```
+3. Installez les requirements :
+   ```bash
+   pip install -r requirements.txt
    ```
 
 ## Utilisation
