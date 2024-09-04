@@ -1,13 +1,13 @@
 # Nexara V2
 
-Nexara est un outil OSINT (Open Source Intelligence) conçu pour faciliter l'osint accessibles au public. Avec une interface simple & facile, Nexara répertorie les meilleurs site du moment pou fair de l'osint donc pas besoin des
+Nexara est un outil OSINT (Open Source Intelligence) conçu pour faciliter l'osint accessibles au public. Avec une interface simple & facile, Nexara répertorie les meilleurs site du moment pour fair de l'osint donc pas besoin des
 commentaires inutiles du style " c'est nul ca affiche que des site " car c'est le but ! A quoi sert de re-coder
-par exemple une "ip lookup" si il y'en z déjà des centaines !
+par exemple une "ip lookup" si il y'en a déjà des centaines !
 
 ## Fonctionnalités
 
 - **Osint** : Retrouver une multitude de tool pour faire de l'osint avec de maigre informations !
-- **Database** : Fair des recherches dans des database leak 100% gratuit 
+- **Database** : Fair des recherches dans des database leak/unleak 100% gratuit comme snusbase
 
 ## Installation Linux & Termux
 
