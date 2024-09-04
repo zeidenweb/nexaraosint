@@ -53,4 +53,4 @@ Cette outil est mise a disposition a des fin éducative je ne suis en aucun cas 
 
 ---
 
-[📷] https://i.imgur.com/cXAiYqi.jpeg | https://i.imgur.com/sofLmBq.jpeg | 15 ⭐ = update
+[📷] https://i.imgur.com/cXAiYqi.jpeg | https://i.imgur.com/sofLmBq.jpeg | 20 ⭐ = update
