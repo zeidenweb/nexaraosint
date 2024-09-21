@@ -174,7 +174,7 @@ def zeidenfonc22():
                     zeidenfonc20()
                     input("Press Enter to return to the OSINT screen ...")
                 elif zeidenfonc24 == '9':
-                    subprocess.run(["python", "tools/instagram_scraper.py"])
+                    subprocess.run(["python", "instagram_scraper.py"])
                     input("Press Enter to return to the OSINT screen ...")
                 elif zeidenfonc24 == '10':
                     zeidenfonc1()
