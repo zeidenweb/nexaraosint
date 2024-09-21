@@ -1,4 +1,4 @@
-# Nexara V2
+# Nexara V3 UPDATED
 
 Nexara est un outil OSINT (Open Source Intelligence) conçu pour faciliter l'osint accessibles au public. Avec une interface simple & facile, Nexara répertorie les meilleurs site du moment pour fair de l'osint donc pas besoin des
 commentaires inutiles du style " c'est nul ca affiche que des site " car c'est le but ! A quoi sert de re-coder
@@ -54,4 +54,4 @@ Cette outil est mise a disposition a des fin éducative je ne suis en aucun cas 
 
 ---
 
-[📷] https://i.imgur.com/cXAiYqi.jpeg | https://i.imgur.com/sofLmBq.jpeg | 20 ⭐ = update
+[📷] https://i.imgur.com/cXAiYqi.jpeg | https://i.imgur.com/sofLmBq.jpeg | 35 ⭐ = update
