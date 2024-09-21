@@ -7,7 +7,8 @@ par exemple une "ip lookup" si il y'en a déjà des centaines !
 ## Fonctionnalités
 
 - **Osint** : Retrouver une multitude de tool pour faire de l'osint avec de maigre informations !
-- **Database** : Fair des recherches dans des database leak/unleak 100% gratuit comme snusbase
+- **Database** : Fair des recherches dans des database leak/unleak 100% gratuit comme snusbase nazapi
+- **Scraper** : Scrappeur intégrées au tool pour scrap des réseau sociaux ce qui permet de mieux tracker une personne 
 
 ## Installation Linux & Termux
 
